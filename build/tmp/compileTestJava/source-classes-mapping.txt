@@ -1,0 +1,4 @@
+com/gerasimov/springboot/SpringBootProject/SpringBootProjectApplicationTests.java
+ com.gerasimov.springboot.SpringBootProject.SpringBootProjectApplicationTests
+com/gerasimov/springboot/SpringBootProject/web/impl/JokeServiceRestImplTest.java
+ com.gerasimov.springboot.SpringBootProject.web.impl.JokeServiceRestImplTest

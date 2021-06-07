@@ -1,0 +1,16 @@
+com/gerasimov/springboot/SpringBootProject/dto/JokeDTO.java
+ com.gerasimov.springboot.SpringBootProject.dto.JokeDTO
+com/gerasimov/springboot/SpringBootProject/dto/ValueDTO.java
+ com.gerasimov.springboot.SpringBootProject.dto.ValueDTO
+com/gerasimov/springboot/SpringBootProject/web/JokeService.java
+ com.gerasimov.springboot.SpringBootProject.web.JokeService
+com/gerasimov/springboot/SpringBootProject/SpringBootProjectApplication.java
+ com.gerasimov.springboot.SpringBootProject.SpringBootProjectApplication
+com/gerasimov/springboot/SpringBootProject/data/impl/JokeDataServiceIJdbcmpl.java
+ com.gerasimov.springboot.SpringBootProject.data.impl.JokeDataServiceIJdbcmpl
+com/gerasimov/springboot/SpringBootProject/data/JokeDataService.java
+ com.gerasimov.springboot.SpringBootProject.data.JokeDataService
+com/gerasimov/springboot/SpringBootProject/shell/JokeShellCommands.java
+ com.gerasimov.springboot.SpringBootProject.shell.JokeShellCommands
+com/gerasimov/springboot/SpringBootProject/web/impl/JokeServiceRestImpl.java
+ com.gerasimov.springboot.SpringBootProject.web.impl.JokeServiceRestImpl
